@@ -6,6 +6,7 @@ public class RabbitTest {
         System.out.println("你好");
         System.out.println("小兔子");
         System.out.println("hello");
+        System.out.println("你好，我的分支");
     }
 
 }
