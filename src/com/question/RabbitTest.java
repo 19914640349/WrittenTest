@@ -5,7 +5,7 @@ public class RabbitTest {
         System.out.println("玩兔子");
         System.out.println("你好");
         System.out.println("兔子");
-
+        System.out.println("hello");
     }
 
 }
